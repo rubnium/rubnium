@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Buenas 👋<br/> </h1> 
 ## Lenguaje más usado (en realidad "más copiado")
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)]
+![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)
 
 
 
