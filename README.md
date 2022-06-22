@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center"> Hi 👋, it is great to have you here!<br/> </h1> 
+<h1 align="center"> Buenas 👋<br/> </h1> 
+
+
+## Un grafico to guapo
+[![rubnium's github activity graph](https://activity-graph.herokuapp.com/graph?username=rubnium)](https://github.com/rubnium/github-readme-activity-graph)
