@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 
 
 <h1 align="center"> Buenas 👋<br/> </h1> 
@@ -22,6 +23,7 @@ Here are some ideas to get you started:
 
 ## Enlaces hasta de tu abuela
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rubnium)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/429205473380663297)
 
 
 ## Skills (la mitad son mentira)
