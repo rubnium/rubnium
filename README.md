@@ -21,20 +21,9 @@ Here are some ideas to get you started:
 ![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)
 
 
-
 ## Un grafico to guapo
 [![Mi gráfico reciente de contribuciones](https://activity-graph.herokuapp.com/graph?username=rubnium&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">## Title</b></td>
-    <td><b style="font-size:30px">## Title 2</b></td>
- </tr>
- <tr>
-    <td>[![noGitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rubnium)</td>
-    <td>[![siGitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rubnium)</td>
- </tr>
-</table>
 
 
 ## Enlaces hasta de tu abuela
