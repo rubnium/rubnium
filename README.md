@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">## Title</b></td>
+    <td><b style="font-size:30px">## Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)</td>
+    <td>![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)</td>
  </tr>
 </table>
 
