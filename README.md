@@ -25,6 +25,18 @@ Here are some ideas to get you started:
 ## Un grafico to guapo
 [![Mi gráfico reciente de contribuciones](https://activity-graph.herokuapp.com/graph?username=rubnium&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+
 ## Enlaces hasta de tu abuela
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rubnium)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/429205473380663297)
