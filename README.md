@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 ## Un grafico to guapo
-[![rubnium's github activity graph](https://activity-graph.herokuapp.com/graph?username=rubnium&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mi gráfico reciente de contribuciones](https://activity-graph.herokuapp.com/graph?username=rubnium&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
