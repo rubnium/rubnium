@@ -31,8 +31,8 @@ Here are some ideas to get you started:
     <td><b style="font-size:30px">## Title 2</b></td>
  </tr>
  <tr>
-    <td>![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)</td>
-    <td>![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)</td>
+    <td>[![noGitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rubnium)</td>
+    <td>[![siGitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rubnium)</td>
  </tr>
 </table>
 
