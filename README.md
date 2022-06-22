@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Buenas 👋<br/> </h1> 
 
-## Un grafico to guapo
-[![Mi gráfico reciente de contribuciones](https://activity-graph.herokuapp.com/graph?username=rubnium&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Lenguaje más usado (en realidad "más copiado")
-![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)
+[![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)]
 
 
 
