@@ -25,8 +25,8 @@ Xdxdxd
 pero que ![image alt >](https://www.uclm.es/images/logos/Logo_uclm.png) pero que
 
 
-<img src="[/path/to/image.png](https://www.uclm.es/images/logos/Logo_uclm.png)" align="left" width="50%"/>
-some text floating around the image
+<img src="https://www.uclm.es/images/logos/Logo_uclm.png" align="left" width="50%"/>
+some text floating around the image texto texto texto texto oooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 <br clear="left"/>
 
