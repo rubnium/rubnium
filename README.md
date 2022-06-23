@@ -26,22 +26,14 @@ Usuario de Firefox, apasionado del modo claro y fanático de la piratería
 
 
 ## Contacto
-A través de
+A través de<br />
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/429205473380663297)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/jGqfylKvupsS)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rubnium_13)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rubnium_13/)
+<br />o mandando un mensaje a mi correo personal: xd
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubengomezvillegas@gmail.com)
 
-
-<div>
-<div style="float: left">
-<img src="https://loremflickr.com/320/240" />
-</div>
-<div>
-Text content goes here
-</div>
-</div>
 
 
 ## Lenguaje más usado (en realidad "más copiado")
