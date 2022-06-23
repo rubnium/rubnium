@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center"> Buenas 👋<br/> </h1> 
 
 ## Texto de ejemplo
-oleee
-probando probando 
+oleee<br />
+probando probando <br />
 1 2 1 2 <img style="float: right;" width="50%" src="https://www.uclm.es/images/logos/Logo_uclm.png">
 si?
 Xdxdxd
