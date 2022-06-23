@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ## Sobre mi
 Soy Rubén Gómez Villegas, estudiante del 3er curso de Ingeniería Informática en la <a href="https://www.uclm.es/es/toledo/fcsociales/grado-informatica"><img src="https://esi.uclm.es/assets/uploads/2022/03/logo_uclm.png" height="25em"/> de Talavera de la Reina</a>
 
+Usuario de Firefox, apasionado del modo claro y fanático de la piratería
+
 ## Lenguaje más usado (en realidad "más copiado")
 ![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)
 
