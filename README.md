@@ -61,3 +61,9 @@ Here are some ideas to get you started:
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
 
+
+| Prueba                                                                                                                                                                              | Que es una prueba, no tomarse esto en serio                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| acto acto pide contacto                                                                                                                                                             | fumo?                                                                                                                |
+| [![Mi gráfico reciente de contribuciones](https://activity-graph.herokuapp.com/graph?username=rubnium&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) | funca?                                                                                                               |
+
