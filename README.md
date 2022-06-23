@@ -24,6 +24,12 @@ probando probando <br />
 Xdxdxd
 pero que ![image alt >](https://www.uclm.es/images/logos/Logo_uclm.png) pero que
 
+
+<img src="[/path/to/image.png](https://www.uclm.es/images/logos/Logo_uclm.png)" align="left" width="50%"/>
+some text floating around the image
+
+<br clear="left"/>
+
 ## Lenguaje más usado (en realidad "más copiado")
 ![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)
 
