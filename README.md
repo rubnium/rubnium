@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Texto de ejemplo
 oleee<img style="float: right;" src="https://www.uclm.es/images/logos/Logo_uclm.png">si?
 Xdxdxd
-![image alt >](https://www.uclm.es/images/logos/Logo_uclm.png)
+pero que ![image alt >](https://www.uclm.es/images/logos/Logo_uclm.png) pero que
 
 ## Lenguaje más usado (en realidad "más copiado")
 ![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)
