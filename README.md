@@ -20,19 +20,6 @@ Here are some ideas to get you started:
 ## Sobre mi
 Soy Rubén Gómez Villegas, estudiante del 3er curso de Ingeniería Informática en la <a href="https://www.uclm.es/es/toledo/fcsociales/grado-informatica"><img src="https://esi.uclm.es/assets/uploads/2022/03/logo_uclm.png" height="25em"/> de Talavera de la Reina</a>
 
-## Texto de ejemplo
-oleee <img style="float: right;" width="50%" src="https://www.uclm.es/images/logos/Logo_uclm.png"> <br />
-probando probando <br />
-1 2 1 2 
-Xdxdxd
-pero que ![image alt >](https://www.uclm.es/images/logos/Logo_uclm.png) pero que
-
-
-<img src="https://www.uclm.es/images/logos/Logo_uclm.png" align="left" width="50%"/>
-some text floating around the image texto texto texto texto oooooooooooooooooooooooooooooooooooooooooooooooooooooo
-
-<br clear="left"/>
-
 ## Lenguaje más usado (en realidad "más copiado")
 ![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)
 
