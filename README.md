@@ -33,6 +33,17 @@ A través de
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rubnium_13/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubengomezvillegas@gmail.com)
 
+
+<div>
+<div style="float: left">
+<img src="https://loremflickr.com/320/240" />
+</div>
+<div>
+Text content goes here
+</div>
+</div>
+
+
 ## Lenguaje más usado (en realidad "más copiado")
 ![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)
 
