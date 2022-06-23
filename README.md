@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Buenas 👋<br/> </h1> 
 
 ## Sobre mi
-Soy Rubén Gómez Villegas, estudiante del 3er curso de Ingeniería Informática en la <img src="https://www.uclm.es/images/logos/Logo_uclm.png" width="5em"/> de Talavera de la Reina
+Soy Rubén Gómez Villegas, estudiante del 3er curso de Ingeniería Informática en la <img src="https://www.uclm.es/images/logos/Logo_uclm.png" height="10em"/> de Talavera de la Reina
 
 ## Texto de ejemplo
 oleee <img style="float: right;" width="50%" src="https://www.uclm.es/images/logos/Logo_uclm.png"> <br />
