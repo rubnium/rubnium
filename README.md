@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Buenas 👋<br/> </h1> 
 
 ## Texto de ejemplo
-oleee<img style="float: right;" src="https://www.uclm.es/images/logos/Logo_uclm.png">si?
+oleee<img style="float: right;" width="50%" src="https://www.uclm.es/images/logos/Logo_uclm.png">si?
 Xdxdxd
 pero que ![image alt >](https://www.uclm.es/images/logos/Logo_uclm.png) pero que
 
