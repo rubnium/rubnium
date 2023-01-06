@@ -35,8 +35,9 @@ A través de:
 o mándame un correillo:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubengomezvillegas@gmail.com)
    
-Prefieres stalkearme o saber más de mí? Aquí tienes: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-gomez-villegas/)
-
+Prefieres stalkearme o saber más de mí? Aquí tienes: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-gomez-villegas/)   
+   
+Cuidado con los links, NO se abren en nuevas pestañas (es lo que hay)
 
 ## Más info:
 Si me preguntas, te diré que el Metal Gear Solid es lo mejor   
