@@ -41,6 +41,7 @@ Cuidado con los links, NO se abren en nuevas pestañas (es lo que hay)
 
 ## Más info:
 Si me preguntas, te diré que el Metal Gear Solid es lo mejor   
+Puedes ver mis __*cosas privadas*__ [aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 😉😉😉😉😉😉😉
 
 
 <!-- EH FUERA DE AQUÍ, QUE NO ESTÁ TERMINADO
