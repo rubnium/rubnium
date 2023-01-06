@@ -1,5 +1,4 @@
-<!--
-**rubnium/rubnium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**rubnium/rubnium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,26 +14,38 @@ Here are some ideas to get you started:
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 
 
-<h1 align="center"> Buenas 👋<br/> </h1> 
+<h1 align="center"> Qué pasa larva 👋<br/> </h1> 
 
-## Sobre mi
-Soy Rubén Gómez Villegas, estudiante del 3er curso de Ingeniería Informática en la <a href="https://www.uclm.es/es/toledo/fcsociales/grado-informatica"><img src="https://esi.uclm.es/assets/uploads/2022/03/logo_uclm.png" height="25em"/> de Talavera de la Reina</a>
+## Qué soy:
+Soy Rubén Gómez Villegas, estudiante del 3er curso de Ingeniería Informática en la <a href="https://www.uclm.es/es/toledo/fcsociales/grado-informatica"><img src="https://esi.uclm.es/assets/uploads/2022/03/logo_uclm.png" height="25em"/> de Talavera de la Reina</a> (es decir, **futuro ingeniero informático**, allá que vamos💪 a por el diplomita con la firma del rey)
+    
+Usuario de Firefox, apasionado del modo claro y fanático del homebrew (no promuevo la piratería, pero está regustosa)   
+   
+Me gusta hacer bases de datos mientras no me duela la cabeza    
+    
+Instalar y configurar/modificar juegos >>>>> Jugarlos
 
-Usuario de Firefox, apasionado del modo claro y fanático de la piratería
 
-
-
-
-## Contacto
-A través de<br />
+## "¿Cómo puedo contactarte? 😭😭🥵🥵🥵"
+A través de:   
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/429205473380663297)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/jGqfylKvupsS)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rubnium_13)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rubnium_13/)
-<br />o mandando un mensaje a mi correo personal: xd
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rubnium_13/)   
+o mándame un correillo:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubengomezvillegas@gmail.com)
+   
+Prefieres stalkearme o saber más de mí? Aquí tienes: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-gomez-villegas/)
 
 
+## Más info:
+Si me preguntas, te diré que el Metal Gear Solid es lo mejor   
+
+
+<!-- EH FUERA DE AQUÍ, QUE NO ESTÁ TERMINADO
+
+## Mis aportes:
+Traducción WingetUI al español
 
 ## Lenguaje más usado (en realidad "más copiado")
 ![Lenguaje más usado](https://github-readme-stats.vercel.app/api/top-langs/?username=rubnium)
@@ -70,10 +81,6 @@ A través de<br />
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-![Lenovo laptop](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
-![Acer laptop](https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white)
-
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -86,4 +93,4 @@ A través de<br />
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | acto acto pide contacto                                                                                                                                                             | fumo?                                                                                                                |
 | [![Mi gráfico reciente de contribuciones](https://activity-graph.herokuapp.com/graph?username=rubnium&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) | funca?                                                                                                               |
-
+-->
