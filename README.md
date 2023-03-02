@@ -22,8 +22,9 @@ Soy **Rubén** Gómez Villegas, estudiante del 3er curso de Ingeniería Informá
 Usuario de Firefox, apasionado del modo claro y fanático del homebrew (no promuevo la piratería, pero está regustosa)   
    
 Me gusta hacer bases de datos mientras no me duela la cabeza    
-    
-Instalar y configurar/modificar juegos >>>>> Jugarlos
+
+Instalar y configurar/modificar juegos >>>>> Jugarlos &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.tenor.com/gUWUvdzfsAMAAAAj/troolface-sad.gif" height="20em"/>
+
 
 
 ## "¿Cómo puedo contactarte? 😭😭🥵🥵🥵"
@@ -42,7 +43,6 @@ Cuidado con los links, NO se abren en nuevas pestañas (es lo que hay)
 ## Más info:
 Si me preguntas, te diré que el Metal Gear Solid es lo mejor   
 Puedes ver mis __*cosas privadas*__ [aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 😉😉😉😉😉😉😉
-
 
 <!-- EH FUERA DE AQUÍ, QUE NO ESTÁ TERMINADO
 
