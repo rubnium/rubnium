@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Qué pasa larva 👋<br/> </h1> 
 
 ## Qué soy:
-Soy **Rubén** Gómez Villegas, estudiante del 3er curso de Ingeniería Informática en la <a href="https://www.uclm.es/es/toledo/fcsociales/grado-informatica"><img src="https://esi.uclm.es/assets/uploads/2022/03/logo_uclm.png" height="25em"/> de Talavera de la Reina</a> (es decir, **futuro ingeniero informático**, allá que vamos💪 a por el diplomita con la firma del rey)
+Soy **Rubén** Gómez Villegas, estudiante del 4to curso de Ingeniería Informática en la <a href="https://www.uclm.es/es/toledo/fcsociales/grado-informatica"><img src="https://esi.uclm.es/assets/uploads/2022/03/logo_uclm.png" height="25em"/> de Talavera de la Reina</a> (es decir, **futuro ingeniero informático**, allá que vamos💪 a por el diplomita con la firma del rey)
     
 Usuario de Firefox, apasionado del modo claro y fanático del homebrew (no promuevo la piratería, pero está regustosa)   
    
