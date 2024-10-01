@@ -17,15 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center"> Qué pasa larva 👋<br/> </h1> 
 
 ## Qué soy:
-Soy **Rubén** Gómez Villegas, estudiante del 4to curso de Ingeniería Informática en la <a href="https://www.uclm.es/es/toledo/fcsociales/grado-informatica"><img src="https://esi.uclm.es/assets/uploads/2022/03/logo_uclm.png" height="25em"/> de Talavera de la Reina</a> (es decir, **futuro ingeniero informático**, allá que vamos💪 a por el diplomita con la firma del rey)
-    
-Usuario de Firefox, apasionado del modo claro y fanático del homebrew (no promuevo la piratería, pero está regustosa)   
-   
-Me gusta hacer bases de datos mientras no me duela la cabeza    
+Soy **Rubén** Gómez Villegas, orgulloso **ingeniero informático** graduado en la <a href="https://www.uclm.es/es/toledo/fcsociales/grado-informatica"><img src="https://esi.uclm.es/assets/uploads/2022/03/logo_uclm.png" height="25em"/> de Talavera de la Reina</a>, y actual estudiante de Máster en Dirección Estratégica en Tecnologías de la Información.  
 
-Instalar y configurar/modificar juegos >>>>> Jugarlos &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.tenor.com/gUWUvdzfsAMAAAAj/troolface-sad.gif" height="20em"/>
+No suelo hacer proyectos, pero bueno si hago alguno eres bienvenido de ver mis repos
 
-
+Usuario de Firefox, apasionado del modo claro y fanático del homebrew
 
 ## "¿Cómo puedo contactarte? 😭😭🥵🥵🥵"
 A través de:   
@@ -40,9 +36,10 @@ Prefieres stalkearme o saber más de mí? Aquí tienes: [![LinkedIn](https://img
    
 Cuidado con los links, NO se abren en nuevas pestañas (es lo que hay)
 
+<!--
 ## Más info:
 Si me preguntas, te diré que el Metal Gear Solid es lo mejor   
-Puedes ver mis __*cosas privadas*__ [aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 😉😉😉😉😉😉😉
+Puedes ver mis __*cosas privadas*__ [aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 😉😉😉😉😉😉😉 -->
 
 <!-- EH FUERA DE AQUÍ, QUE NO ESTÁ TERMINADO
 
@@ -87,12 +84,5 @@ Traducción WingetUI al español
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![MSOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-
-
-
-| Prueba                                                                                                                                                                              | Que es una prueba, no tomarse esto en serio                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| acto acto pide contacto                                                                                                                                                             | fumo?                                                                                                                |
-| [![Mi gráfico reciente de contribuciones](https://activity-graph.herokuapp.com/graph?username=rubnium&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) | funca?                                                                                                               |
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)                                                        |
 -->
