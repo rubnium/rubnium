@@ -17,20 +17,19 @@ Here are some ideas to get you started:
 <h1 align="center"> Qué pasa larva 👋<br/> </h1> 
 
 ## Qué soy:
-Soy **Rubén** Gómez Villegas, orgulloso **ingeniero informático** graduado en la <a href="https://www.uclm.es/es/toledo/fcsociales/grado-informatica"><img src="https://esi.uclm.es/assets/uploads/2022/03/logo_uclm.png" height="25em"/> de Talavera de la Reina</a>, y actual estudiante de Máster en Dirección Estratégica en Tecnologías de la Información.  
+Soy **Rubén** Gómez Villegas, orgulloso **ingeniero informático** y poseedor del Máster en Dirección Estratégica en Tecnologías de la Información.  
 
-No suelo hacer proyectos, pero bueno si hago alguno eres bienvenido de ver mis repos
+No suelo hacer proyectos, pero bueno si hago alguno eres bienvenido de ver mis repos, me encantan las críticas constructivas.
 
-Usuario de Firefox, apasionado del modo claro y fanático del homebrew
+Usuario de Firefox, apasionado del modo claro y fanático del homebrew.
 
 ## "¿Cómo puedo contactarte? 😭😭🥵🥵🥵"
 A través de:   
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/429205473380663297)
-[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/jGqfylKvupsS)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rubnium_13)
+[![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=rubengomezvillegas@outlook.es)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rubnium_13/)   
 o mándame un correillo:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubengomezvillegas@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubengomezvillegas+fromgh@gmail.com)
    
 Prefieres stalkearme o saber más de mí? Aquí tienes: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-gomez-villegas/)   
    
